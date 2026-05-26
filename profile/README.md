@@ -44,4 +44,6 @@ The full, versioned method — prompt-set construction, five-engine capture, per
 
 **Website:** [answerability.ai](https://answerability.ai) · **Method:** [answerability.ai/methodology](https://answerability.ai/methodology/) · **Working papers:** [answerability.ai/insights](https://answerability.ai/insights/)
 
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/company/answerability-ai) · [Wikidata](https://www.wikidata.org/wiki/Q139927039)
+
 *Engagements are confidential under MNDA. Content published here is released for inspection and citation under the licenses noted in each repository.*
